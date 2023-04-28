@@ -4,6 +4,8 @@
 
 Este sistema para Foundry VTT mezcla Dungeons & Dragons 5e y Pathfinder 2e con reglas de la casa.
 
+![image](https://www.cosasdedados.com/dragonfinder/logo.png)
+
 ## Resumen de reglas de la casa
 
 **Iniciativa**
@@ -84,5 +86,3 @@ Este sistema para Foundry VTT mezcla Dungeons & Dragons 5e y Pathfinder 2e con r
     - Directo: Valora la verdad en pocas palabras +5, -2 por excesiva palabrería
     - Negociante: +5 cuando obtiene algo a cambio, -2 si no
     - Corrupto: Solo cede por sobornos
-
-![image](https://www.cosasdedados.com/dragonfinder/logo.png)
