@@ -1,0 +1,34 @@
+{
+  "id": "dragonfinder",
+  "title": "DragonFinder",
+  "description": "Reglas de la casa entre D&D 5e y Pathfinder 2e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.287",
+    "maximum": 10
+  },
+  "authors": [{
+    "name": "Juancho"
+  }],
+  "esmodules": ["module/boilerplate.mjs"],
+  "styles": ["css/boilerplate.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt",
+  "changelog": "CHANGELOG.md"
+}
