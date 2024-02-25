@@ -2,7 +2,7 @@
 
 ![Foundry v10](https://img.shields.io/badge/foundry-v10-green)
 
-Este sistema para Foundry VTT mezcla Dungeons & Dragons 5e y Pathfinder 2e con reglas de la casa.
+Este sistema para Foundry VTT mezcla Dungeons & Dragons 5e y Pathfinder 2e con reglas de la casa. Está en desarrollo y no tiene una versión funcional todavía.
 
 ![image](https://www.cosasdedados.com/dragonfinder/logo.png)
 
